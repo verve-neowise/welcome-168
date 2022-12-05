@@ -13,7 +13,7 @@ function App() {
       </header>
       <main>
         <h1 className='welcome'>
-          Welcome to Book store
+          Welcome to Online store
         </h1>
         <p className="lorem">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic itaque quia beatae similique natus, animi a tempora eum! Velit vel nisi provident possimus, a illo quae atque ea fugit itaque.
